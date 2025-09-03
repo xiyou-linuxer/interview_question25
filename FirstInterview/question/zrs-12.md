@@ -106,6 +106,6 @@ it2->c = 0;
 于是it1中翻转大小写（else分支）
 it2中反转字符串(if分支)
 输出：
-FREE, OPEN, SHARE
+fREE, oPEN, sHARE
 erahS ,nepO ,eerF
 ~~~
